@@ -1,5 +1,5 @@
 #! -*- coding: utf-8 -*-
-# @Time    : 2024/6/30 15:47
+# @Time    : 2024/8/16 15:47
 # @Author  :
 import torch
 from Threa_relation_extart.model.Run import  data_split
